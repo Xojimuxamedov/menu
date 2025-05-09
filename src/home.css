@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.department {
+  display: flex;
+  gap: 20px;
+}
+
+.department-item {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #f2f2f2;
+  background-color: rgb(0, 140, 255);
+  padding: 5px 10px;
+  border-radius: 50px;
+}
